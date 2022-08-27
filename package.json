@@ -1,0 +1,23 @@
+{
+  "name": "js-design-patterns",
+  "version": "1.0.0",
+  "description": "Javascript Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lap-4ront/js-design-patterns.git"
+  },
+  "keywords": [
+    "javascript",
+    "design-patterns"
+  ],
+  "author": "4rontender <4rontender@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lap-4ront/js-design-patterns/issues"
+  },
+  "homepage": "https://github.com/lap-4ront/js-design-patterns#readme"
+}
